@@ -1,0 +1,65 @@
+https://www.youtube.com/watch?v=9sHcLvVXsns
+https://www.youtube.com/watch?v=y2BaTt1fxJU
+https://github.com/AladdinPerzon/Machine-Learning-Collection/tree/master/ML/Pytorch/more_advanced/image_captioning
+
+
+ML questions help links
+
+Vc dimension -
+ http://www.cs.uu.nl/docs/vakken/mbd/slides/VC-Examples.pdf
+http://www.cs.columbia.edu/~jebara/4771/hw2_2015_solutions.pdf
+https://www.cs.cmu.edu/~epxing/Class/10701/slides/lecture16-V'C.pdf
+http://web.cs.ucla.edu/~chohsieh/teaching/CS260_Winter2019/lecture7.pdf
+https://www.youtube.com/watch?v=puDzy2XmR5c
+http://www.cs.uu.nl/docs/vakken/mbd/slides/VC-Examples.pdf
+https://cs.nyu.edu/~mohri/ml16/sol2.pdf
+https://cse.iitkgp.ac.in/~pabitra/course/hw2.pdf (sin explanation)
+https://www.cs.cmu.edu/~epxing/Class/10701-11f/HW/HW2_solution.pdf
+
+
+
+
+PCA
+https://courses.cs.ut.ee/MTAT.03.227/2014_spring/uploads/Main/lecture-notes-9.pdf
+https://www.cs.toronto.edu/~urtasun/courses/CSC411_Fall16/tutorial7.pdf
+
+SVD
+https://gregorygundersen.com/blog/2018/12/20/svd-proof/
+
+Exponential family
+http://www.cs.columbia.edu/~jebara/4771/tutorials/lecture12.pdf
+
+
+Practice q
+https://www.cs.cmu.edu/~epxing/Class/10701-11f/HW/HW2_solution.pdf
+
+K Means GMM:
+https://www.cse.iitk.ac.in/users/piyush/courses/pml_winter16/slides_lec7.pdf
+https://davidrosenberg.github.io/ml2015/docs/13.mixture-models.pdf
+Block coordinates - http://www.cs.cmu.edu/~guestrin/Class/10701/slides/em-annotated.pdf
+
+Multinomial MLE
+http://statweb.stanford.edu/~susan/courses/s200/lectures/lect11.pdf
+
+https://ocw.mit.edu/ans7870/18/18.443/s15/projects/Rproject3_rmd_multinomial_theory.html
+
+
+Generative
+https://wei2624.github.io/MachineLearning/sv_generative_model/
+
+CNN 
+https://jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/
+
+RNN
+https://www.jefkine.com/general/2018/05/21/2018-05-21-vanishing-and-exploding-gradient-problems/
+
+Bias variance underfit overfit 
+http://www.cs.cornell.edu/courses/cs4780/2015fa/web/lecturenotes/lecturenote13.html
+
+Semisupervised
+http://pages.cs.wisc.edu/~jerryzhu/pub/ssl_survey.pdf
+
+Kernel trick
+https://people.eecs.berkeley.edu/~jrs/189s19/lec/14.pdf
+
+

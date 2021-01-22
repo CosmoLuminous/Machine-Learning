@@ -1,0 +1,6 @@
+train_accuracy_list = [3.846, 21.138, 33.592, 96.138, 97.608]
+test_accuracy_list = [3.846, 20.446, 31.231, 84.631, 88.062]
+train_accuracy_adaptive_lr = [3.846, 10.0, 7.854, 92.3, 95.515]
+test_accuracy_adaptive_lr = [3.846, 9.815, 7.754, 82.185, 86.477]
+time_fixed_lr = [0.41, 30.95, 53.88, 30.83, 7.88]
+time_adaptive_lr = [0.33, 7.85, 50.56, 71.12, 32.0]
